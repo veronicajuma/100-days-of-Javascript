@@ -1,0 +1,1 @@
+console.log("A"-"B");//returns NaN since the operation(-) cannot be used on the string values operands.
